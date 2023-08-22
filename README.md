@@ -7,7 +7,7 @@
    
  <img width="520" alt="image" src="https://github.com/masonbrockbank/data-catalog/assets/90272781/534af092-0d36-402b-b009-54cfec310142">
  
-4. In the Request sample shell command directly below: copy the authorization header (just the hash value after basic)
+4. Do not press send API request.  In the Request sample shell command directly below: copy the authorization header (just the hash value after the word basic)
    
  <img width="552" alt="image" src="https://github.com/masonbrockbank/data-catalog/assets/90272781/363b59fd-afcd-4fe6-8d4c-a2fa436c39b0">
  
