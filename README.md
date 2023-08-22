@@ -12,5 +12,6 @@
  <img width="552" alt="image" src="https://github.com/masonbrockbank/data-catalog/assets/90272781/363b59fd-afcd-4fe6-8d4c-a2fa436c39b0">
  
 5. Paste this value in step 3 in the env file
+6. Open the terminal in visual studio (hold down control `).  Type in npm start.  A browser window will open with localhost:3000
 
 
