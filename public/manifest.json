@@ -1,9 +1,12 @@
 {
-    "name": "React DomoApp",
-    "version": "0.0.1",
-    "size": {
-        "width": 3,
-        "height": 3
-    },
-    "mapping": []
+  "name": "React DomoApp",
+  "version": "0.0.1",
+  "size": {
+    "width": 3,
+    "height": 3
+  },
+  "mapping": [],
+  "fileName": "manifest.json",
+  "id": "e0b6020f-69bb-437f-8fdf-f10458c97bc9",
+  "proxyId":"08af46a4-7a99-42f0-91d9-9515842cb283"
 }
