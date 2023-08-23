@@ -2,6 +2,8 @@
 
 # Follow these steps to run this project locally
 
+## Note: The a loading screen displays as the shcema is loading.  This can take a minute depending on how many datasets are in the domo instance.
+
 1. Go to this link: https://developer.domo.com/portal/d9520f5752d56-get-access-token
 2. Fill out the username and password in the top right: username being a domo client id and password being a domo client secret
    
