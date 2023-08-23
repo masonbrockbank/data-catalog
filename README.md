@@ -14,5 +14,5 @@
 5. Paste this value in step 3 in the env file
 6. Open the terminal in visual studio (hold down control `).  Type in npm start.  A browser window will open with localhost:3000
 
-## Note: The a loading screen displays as the shcema is loading.  This can take a minute depending on how many datasets are in the domo instance.
+## Note: A loading screen displays as the shcema is populating.  This can take a minute depending on how many datasets are in the domo instance.
 
